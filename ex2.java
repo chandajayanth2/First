@@ -10,7 +10,7 @@ class Exa
   }
   void m2
   {
-  //code
+  //cod
   }
 
 }
