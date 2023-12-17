@@ -2,15 +2,15 @@ class Exa
 {
   void m1()
   {
-    //code
+    Sys.out.prn("1");
   }
   void m2
   {
-  //code
+   Sys.out.prn("2");
   }
-  void m2
+  void m3
   {
-  //cod
+   Sys.out.prn("3");
   }
 
 }
